@@ -17,6 +17,7 @@
 		<component name="testrepo123" type="module" sourcetype="bitbucket" ra2="true" project="chandrunandha"/>
 		<component name="testrepoDemo" type="module" sourcetype="bitbucket" ra3="true" project="chandrunandha"/>
 		<component name="GitHubTestRepo" type="module" sourcetype="github" ra3only="true" project="chandrupsj22"/>
+                <component name="GitHubTestRepo" type="module" sourcetype="github" ra3only="true" project="chandrupsj22"/>
 		<component name="repo1" type="module" moduleType="Common" impl="true" remote="false" sourcetype="bitbucket" ra3="true" project="chandrunandha"/>
 		<component name="rebase" type="module" sourcetype="github" ra2="true" project="chandrupsj22"/>
 		<component name="Java" type="module" sourcetype="github" ra2only="true" project="chandrupsj22"/>
